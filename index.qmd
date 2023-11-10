@@ -1,0 +1,11 @@
+---
+title: "Welcome!"
+---
+
+Welcome to my personal website! I am Wenxuan Lu, a first-year Ph.D. student in Biostatistics at Johns Hopkins Bloomberg School of Public Health. My research interest lies in statistical genetics. Besides school, I love travelling and figure skating.
+
+::: {layout-ncol="2"}
+![](./images/self.jpg)
+
+![](./images/skating.jpg)
+:::

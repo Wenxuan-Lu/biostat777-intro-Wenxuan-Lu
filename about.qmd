@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+I am a first-year Ph.D. student in Biostatistics at Johns Hopkins Bloomberg School of Public Health. Prior to this, I received my BS in Applied Mathematics and Statistics with a secondary major in Computer Science at Johns Hopkins University. My research interest in statistical genetics stems from my undergraduate intern on multi-ancestry polygenic risk scores. The internship brought up my attention to the health equity issues and the statistical problems underlying risk prediction models. I would like to develop scalable statistical methods and computational tools to further investigate these problems.
